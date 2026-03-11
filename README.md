@@ -207,7 +207,6 @@ A Production-Grade Customer Segmentation & Decision Intelligence System
     <img width="300" height="300" alt="Screenshot 2026-02-03 at 21 40 44" src="https://github.com/user-attachments/assets/79f24755-d153-4265-8013-12c2c9ff8167" />
 
 Author
-
-Pranav Gujjar
+Baitapalli Pavan Kumar
 
 ML Engineer
